@@ -1,4 +1,4 @@
 # apnaproject
 This is my learning project
 <br/>
-Author - Tarun Kumar
+Author - Tarun Kumar Kurra
